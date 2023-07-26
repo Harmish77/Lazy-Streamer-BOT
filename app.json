@@ -16,7 +16,7 @@
   "repository": "https://github.com/Harmish77/Lazy-Streamer-BOT",
   "success_url": "/",
   "logo": "https://telegra.ph/file/f2c253c5b0b747042cf4c.png",
-  "website": "http://t.me/LazyDeveloper",
+  "website": "http://t.me/Mr_HKs",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
